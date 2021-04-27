@@ -1,5 +1,5 @@
 ### Hello 👋
 - 👨‍💻 I work with C and Python
 - 🔭 Currently enrolling in university and finding meaning of life
-- 🏗 Trying to build my [os](https://github.com/krylowicz/os)
+- 🏗 Writing my own python linear algebra [library](https://github.com/krylowicz/tinygrad)
 - ✉️ kacper@krylowicz.pl
