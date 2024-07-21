@@ -1,2 +1,2 @@
 ### Hello 👋
-- 🔭 Software Engineer @ [greenTEG](https://www.greenteg.com)
+- 🔭 Software Engineer @ [greenteg](https://www.greenteg.com)
